@@ -12,8 +12,7 @@ https://github.com/sAslank/Git/commit/e8d09e1eb29641fde6542396f8f69feccfa84d8b :
 ### Задание 2
 
 1. ![alt text](https://github.com/sAslank/07/blob/main/2.1.jpg)
-2. ![alt text]
-3. ![alt text]
+
 Ссылка:
 https://github.com/sAslank/Git/commit/1dcbdf70a28ac8323bf445e502fdaaa9b61e2355 :blush:
 
