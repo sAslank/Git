@@ -2,13 +2,12 @@
 
 ### Задание 1
 
-1. ![alt text]
-2. ![alt text]
-3. ![alt text]
-4. ![alt text]
+1. ![alt text](https://github.com/sAslank/07/blob/main/1.jpg)
+2. ![alt text](https://github.com/sAslank/07/blob/main/2.jpg)
+3. ![alt text](https://github.com/sAslank/07/blob/main/3.jpg)
 
 Ссылка:
-https: :blush:
+https://github.com/sAslank/Git/commit/e8d09e1eb29641fde6542396f8f69feccfa84d8b :blush:
 
 ### Задание 2
 
